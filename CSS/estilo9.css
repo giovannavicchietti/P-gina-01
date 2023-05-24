@@ -1,0 +1,14 @@
+body{background-color: black;}
+.container{width: 800px; height: 768px; background-color: aliceblue; display: flex; flex-wrap: wrap; margin: auto;}
+.controle01{ width: 200px; height: 60px; background-color: brown; align-items: center; justify-content: center; display: flex;}
+.controle02{width: 200px; height: 60px; background-color: brown;align-items: center; display: flex; justify-content: center;}
+.controle03{width: 200px; height: 60px; background-color: brown; align-items: center; justify-content: center; display: flex;}
+.controle04{width: 200px; height: 60px; background-color: brown; display: flex; align-items: center; justify-content: center;}
+.controle05{width: 185px; height: 300px; background-color: chocolate; margin-left: 50px; margin-top: 100px;}
+.controle06{width: 185px; height: 300px; background-color: chocolate; margin-left: 330px; margin-top: 100px;}
+.controle07{width: 60px; height: 60px; background-color: black; margin-left: 50px; margin-top: 120px;}
+.controle08{width: 60px; height: 60px; background-color: black; margin-top: 120px; margin-left: 50px;}
+.controle09{width: 60px; height: 60px; background-color: black; margin-top: 120px; margin-left: 50px;}
+.controle10{width: 60px; height: 60px; margin-top: 120px; margin-left: 50px; background-color: black;}
+.img1{width: 100%;}
+.helloween{width: 800px; height: 100px; background-color: rgb(158, 50, 50); margin-top: -660px; align-items: center; justify-content: center; display: flex;}
